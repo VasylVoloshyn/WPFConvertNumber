@@ -5,7 +5,7 @@ using System.Windows;
 namespace WPFConvertNumbers
 {
     /// <summary>
-    /// Exception for entered value in incorrect format
+    /// Exception for entered value in incorrect format 
     /// </summary>
     public class IncorrectNumberException : Exception
     {
